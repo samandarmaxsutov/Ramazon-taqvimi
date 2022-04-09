@@ -246,5 +246,6 @@
         android:layout_height="0dp"
         android:layout_weight="1.2"
         android:background="#FAFDFD"
+        app:itemIconTint="#00897B"
         app:menu="@menu/button_menyu" />
 </LinearLayout>
