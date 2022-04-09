@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/budulnik_stayle.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_add_alarm_24.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_radio_button_checked_24.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_settings_backup_restore_24.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_snooze_24.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ramazon2_foreground.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/drawable/ramazon_foreground.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/layout/activity_alarm.xml" value="0.36666666666666664" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/layout/activity_taqvim.xml" value="0.20520833333333333" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/layout/activity_tasbeh2.xml" value="0.36666666666666664" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/layout/costum_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/layout/costum_list2.xml" value="0.36666666666666664" />
+        <entry key="..\:/10-sinf/Samandar/Ramazon taqvimi3/app/src/main/res/layout/list_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/10-sinf/Samandar/RamazonTaqvim/app/src/main/res/layout/activity_taqvim.xml" value="0.36666666666666664" />
+        <entry key="..\:/10-sinf/Samandar/RamazonTaqvim/app/src/main/res/layout/activity_tasbeh2.xml" value="0.36666666666666664" />
+        <entry key="..\:/10-sinf/Samandar/RamazonTaqvim2222/app/src/main/res/drawable/budulnik_stayle.xml" value="0.3828125" />
+        <entry key="..\:/10-sinf/Samandar/RamazonTaqvim2222/app/src/main/res/layout/activity_taqvim.xml" value="0.23703703703703705" />
+        <entry key="..\:/10-sinf/Samandar/RamazonTaqvim2222/app/src/main/res/menu/new_w.xml" value="0.1" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/layout/activity_alarm.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/layout/activity_taqvim.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/layout/activity_tasbeh2.xml" value="0.1388888888888889" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/layout/list_item.xml" value="0.1388888888888889" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/menu/button_menyu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi3/app/src/main/res/menu/new_w.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/drawable/budulnik_stayle.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/layout/activity_taqvim.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/layout/activity_tasbeh2.xml" value="0.1388888888888889" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/layout/costum_list.xml" value="0.1388888888888889" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/layout/costum_list2.xml" value="0.1388888888888889" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/menu/button_menyu.xml" value="0.1388888888888889" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/menu/new_w.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/Ramazon taqvimi32/app/src/main/res/mipmap-anydpi-v26/ramazon.xml" value="0.2203125" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/ic_baseline_brightness_3_24.xml" value="0.1675925925925926" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.18611111111111112" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17685185185185184" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/ramazon_background.xml" value="0.17685185185185184" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/stayle.xml" value="0.18703703703703703" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/stayle_layout.xml" value="0.18611111111111112" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/stayle_left.xml" value="0.18611111111111112" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/stayle_right.xml" value="0.18611111111111112" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/drawable/stayle_tasbeh.xml" value="0.1675925925925926" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/layout/activity_2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/layout/activity_after_notifaction.xml" value="0.20102564102564102" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/layout/activity_main.xml" value="0.14444444444444443" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/layout/activity_taqvim.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/layout/activity_tasbeh.xml" value="0.20102564102564102" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/layout/activity_tasbeh2.xml" value="0.19010416666666666" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/layout/costum_list.xml" value="0.25" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/layout/listview_enpa.xml" value="0.20102564102564102" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/menu/button_menyu.xml" value="0.20102564102564102" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/menu/new_w.xml" value="0.125" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/mipmap-anydpi-v26/ramazon.xml" value="0.17685185185185184" />
+        <entry key="..\:/Android projects/RamazonTaqvim/app/src/main/res/mipmap-anydpi-v26/ramazon_round.xml" value="0.17685185185185184" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_add_alarm_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_brightness_3_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_query_builder_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_radio_button_checked_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_settings_backup_restore_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_snooze_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ramazon2_foreground.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/ramazon_foreground.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/stayle.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/stayle_layout.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/stayle_left.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/stayle_right.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/drawable/stayle_tasbeh.xml" value="0.14537037037037037" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/layout/activity_after_notifaction.xml" value="0.10833333333333334" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/layout/activity_alarm.xml" value="0.25" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/layout/activity_main.xml" value="0.15555555555555556" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/layout/activity_taqvim.xml" value="0.2" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/layout/activity_tasbeh2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/layout/costum_list2.xml" value="0.10833333333333334" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/menu/new_w.xml" value="0.10277777777777777" />
+        <entry key="..\:/Android projects/RamazonTaqvim2222/app/src/main/res/mipmap-anydpi-v26/ramazon2.xml" value="0.14537037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
