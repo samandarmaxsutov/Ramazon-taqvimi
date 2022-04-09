@@ -51,7 +51,7 @@ class Alarm : AppCompatActivity() {
 
 
 
-                intent.putExtra(AlarmClock.EXTRA_MESSAGE, "Ramazon taqivimi2022")
+                intent.putExtra(AlarmClock.EXTRA_MESSAGE, "Ramazon taqivimi 2022")
                 if (intent.resolveActivity(packageManager) != null) {
                     startActivity(intent)
                 } else {
