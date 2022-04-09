@@ -548,7 +548,7 @@ var days=""
                 hafta_kun.setBackgroundColor(Color.GREEN)}
             6-> {
                 days = " Juma"
-                hafta_kun.setBackgroundColor(Color.RED)
+                hafta_kun.setBackgroundColor(Color.parseColor("#ff00ff"))
             }
             7->{days=" Shanba"
                 hafta_kun.setBackgroundColor(Color.GREEN)}
